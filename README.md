@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Fahad Ali Khan
 
-<!--
-**FahadKhan-20/FahadKhan-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Full-Stack Developer | React Native Developer
 
-Here are some ideas to get you started:
+Building next-generation AI, Web3, and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+- 🧠 NexMeet
+- 📊 NEXCEL
+- 🚗 Autronix
+- 🛒 FruitMart
+- 😴 Drowsiness Detector
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node.js
+- Express
+- MongoDB
+- Solidity
+- Hardhat
+- TensorFlow
+- Git
+- Docker
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- System Design
+- Cloud Computing
+- Advanced React Native
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn:https://www.linkedin.com/in/fahad-ali-khan-000a20236/
+- 📧 alikhanfahad84@gmail.com
