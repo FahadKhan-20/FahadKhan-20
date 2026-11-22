@@ -2,14 +2,14 @@
 
 <!-- 3D WebGL Particle Morph Hero Banner (Sphere -> Torus -> Helix) -->
 <a href="https://github.com/FahadKhan-20">
-  <img src="assets/particle-banner.gif" width="100%" alt="Fahad Ali Khan - Three.js WebGL Particle Morph Banner" />
+  <img src="https://raw.githubusercontent.com/FahadKhan-20/FahadKhan-20/main/assets/particle-banner.gif" width="100%" alt="Fahad Ali Khan - Three.js WebGL Particle Morph Banner" />
 </a>
 
 <br/><br/>
 
 <!-- Holographic Rotating Profile Picture -->
 <a href="https://github.com/FahadKhan-20">
-  <img src="assets/animated-pfp.svg" width="190" alt="Fahad Ali Khan holographic avatar" />
+  <img src="https://raw.githubusercontent.com/FahadKhan-20/FahadKhan-20/main/assets/animated-pfp.svg" width="190" alt="Fahad Ali Khan holographic avatar" />
 </a>
 
 <br/>
@@ -30,9 +30,7 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -45,9 +43,7 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
 - 💬 **Ask Me About**: Full-Stack Architecture, AI Automation, React Native internals, Web3 dApps
 - ⚡ **Fun Fact**: Passionate about astrodynamics simulations and deconstructing how low-level systems & version control work under the hood!
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 🚀 Featured Production Systems
 
@@ -121,9 +117,7 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 🛠️ Technology Stack & Toolchain
 
@@ -149,9 +143,7 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
 
 </div>
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 🐍 Contribution Activity Matrix
 
@@ -163,9 +155,7 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   </picture>
 </div>
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 📊 Real-Time GitHub Analytics
 
@@ -182,9 +172,7 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   <img src="https://github-profile-trophy.vercel.app/?username=FahadKhan-20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Profile Trophies" />
 </div>
 
-<p align="center">
-  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
-</p>
+---
 
 ## 🤝 Connect & Network
 
