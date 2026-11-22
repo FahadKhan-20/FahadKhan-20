@@ -32,23 +32,16 @@
 
 ---
 
-### ⚡ Operational Telemetry // About Me
+## 👨‍💻 About Me
 
-```yaml
-identity:
-  name: Fahad Ali Khan
-  pronouns: he/him
-  location: Bangalore, Karnataka, India [UTC +05:30]
-  headline: AI Engineer • Full-Stack Developer • React Native & Web3 Architect
-architecture_focus:
-  - Autonomous Multi-Agent AI Systems & LLM Orchestration
-  - Production React Native & Native Kotlin Mobile Applications
-  - Decentralized Collaboration & Solidity Smart Contracts
-  - High-Throughput Full-Stack Web Architecture
-current_directives:
-  - Exploring agentic autonomy, system design & distributed systems
-  - Shipping impactful, beautifully designed software experiences
-```
+I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** based in **Bangalore, India**. I specialize in engineering autonomous AI systems, high-performance React Native & Kotlin mobile applications, and decentralized Web3 protocols.
+
+- 🔭 **Currently Building**: Next-gen autonomous AI agents & scalable full-stack platforms
+- 🌱 **Deep Diving Into**: Distributed Systems Architecture, Multi-Agent LLM Orchestration & Cloud Computing
+- 📱 **Mobile Craft**: Production-ready React Native & native Android architecture
+- ⛓️ **Web3 Architecture**: Decentralized collaboration suites & Solidity smart contracts
+- 💬 **Ask Me About**: Full-Stack Architecture, AI Automation, React Native internals, Web3 dApps
+- ⚡ **Fun Fact**: Passionate about astrodynamics simulations and deconstructing how low-level systems & version control work under the hood!
 
 ---
 
