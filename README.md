@@ -30,7 +30,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -43,9 +45,11 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
 - 💬 **Ask Me About**: Full-Stack Architecture, AI Automation, React Native internals, Web3 dApps
 - ⚡ **Fun Fact**: Passionate about astrodynamics simulations and deconstructing how low-level systems & version control work under the hood!
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
-### 🚀 Featured Production Systems
+## 🚀 Featured Production Systems
 
 <table>
   <tr>
@@ -117,9 +121,11 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
-### 🛠️ Technology Stack & Toolchain
+## 🛠️ Technology Stack & Toolchain
 
 <div align="center">
 
@@ -143,9 +149,11 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
 
 </div>
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
-### 🐍 Contribution Activity Matrix
+## 🐍 Contribution Activity Matrix
 
 <div align="center">
   <picture>
@@ -155,9 +163,11 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   </picture>
 </div>
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
-### 📊 Real-Time GitHub Analytics
+## 📊 Real-Time GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=FahadKhan-20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fahad Khan GitHub Stats" />
@@ -172,9 +182,11 @@ I am an **AI Engineer**, **Full-Stack Developer**, and **Mobile Architect** base
   <img src="https://github-profile-trophy.vercel.app/?username=FahadKhan-20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Profile Trophies" />
 </div>
 
----
+<p align="center">
+  <img src="assets/particle-divider.gif" width="100%" alt="Particle Stream" />
+</p>
 
-### 🤝 Connect & Network
+## 🤝 Connect & Network
 
 <div align="center">
   <a href="https://linkedin.com/in/fahad-ali-khan-000a20236/" target="_blank">
