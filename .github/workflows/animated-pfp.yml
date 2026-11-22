@@ -1,0 +1,30 @@
+name: Generate Animated PFP
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - generate_pfp.py
+
+permissions:
+  contents: write
+
+jobs:
+  pfp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate animated profile picture
+        run: python generate_pfp.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/animated-pfp.svg
+          git diff --staged --quiet || git commit -m "chore: update animated pfp"
+          git push
